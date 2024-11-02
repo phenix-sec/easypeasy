@@ -1,2 +1,3 @@
-# easypeasy
-Subdomain scanner (deprecated)
+# EasyPeasy
+
+EasyPeasy Subdomain Scanner (deprecated). Use OneForAll or reconFTW instead.
